@@ -83,4 +83,4 @@ On this well-behaved Breast Cancer dataset, final test set accuracy remained ide
 
 ---
 
-pip install numpy pandas matplotlib scikit-learn scikit-optimize
+
